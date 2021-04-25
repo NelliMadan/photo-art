@@ -160,11 +160,3 @@ function getData() {
     xttp.send();
 
 }
-
-// $('.h').hide(3000).show(3000);
-// $('.h').width(150);
-
-// let ig = $('.ig');
-// ig.hover(function(){
-//     $(this).after('<span>asfsdgf</span>')
-// });

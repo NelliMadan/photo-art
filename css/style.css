@@ -191,8 +191,3 @@ footer div:nth-child(2) i{
     bottom: 0;
 }
 
-@media only screen and (max-width: 800px) {
-    .inputGrup{
-      
-    }
-}
